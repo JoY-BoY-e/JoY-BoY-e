@@ -103,7 +103,7 @@ _BS Computer Science, 2022 – Present_
 
 - 📧 [salmanmehmood19j@gmail.com](mailto:salmanmehmood19j@gmail.com)
 - 🌐 [GitHub](https://github.com/JoY-BoY-e)
-- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/salman-mehmood-020845318))
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/salman-mehmood-020845318)
 
 ---
 
