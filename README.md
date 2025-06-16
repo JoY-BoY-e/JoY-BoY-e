@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salman Mehmood!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/) &nbsp; [![Gmail](https://img.shields.io/badge/Email-salmanmehmood19j@gmail.com-red?logo=gmail&style=flat-square)](mailto:salmanmehmood19j@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://linkedin.com/](https://www.linkedin.com/in/salman-mehmood-020845318)) &nbsp; [![Gmail](https://img.shields.io/badge/Email-salmanmehmood19j@gmail.com-red?logo=gmail&style=flat-square)](mailto:salmanmehmood19j@gmail.com)
 
 ---
 
@@ -103,7 +103,7 @@ _BS Computer Science, 2022 – Present_
 
 - 📧 [salmanmehmood19j@gmail.com](mailto:salmanmehmood19j@gmail.com)
 - 🌐 [GitHub](https://github.com/JoY-BoY-e)
-- 💼 [LinkedIn](https://linkedin.com/)
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/salman-mehmood-020845318))
 
 ---
 
