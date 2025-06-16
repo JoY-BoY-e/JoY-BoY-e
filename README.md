@@ -20,7 +20,7 @@ I love tackling real-world problems with code, collaborating in teams, and learn
 ## 💻 Tech Stack
 
 **Languages:**  
-`JavaScript` | `TypeScript` | `Python` | `Java` | `Kotlin` | HTML5/CSS3
+`JavaScript` | `TypeScript` | `Python` | `Java` | `C++` | `C` | `Kotlin` | HTML5/CSS3
 
 **Frameworks/Libraries:**  
 React.js · Next.js · Redux · Node.js/Express · NestJS · Django/DRF · React Native (Expo) · Pandas · NumPy · scikit-learn
